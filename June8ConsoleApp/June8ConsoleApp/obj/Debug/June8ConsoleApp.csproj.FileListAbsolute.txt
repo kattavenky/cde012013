@@ -1,0 +1,8 @@
+E:\CDE-012013\8JUNE-JIT\June8ConsoleApp\June8ConsoleApp\bin\Debug\June8ConsoleApp.exe.config
+E:\CDE-012013\8JUNE-JIT\June8ConsoleApp\June8ConsoleApp\bin\Debug\June8ConsoleApp.exe
+E:\CDE-012013\8JUNE-JIT\June8ConsoleApp\June8ConsoleApp\bin\Debug\June8ConsoleApp.pdb
+E:\CDE-012013\8JUNE-JIT\June8ConsoleApp\June8ConsoleApp\obj\Debug\June8ConsoleApp.csproj.AssemblyReference.cache
+E:\CDE-012013\8JUNE-JIT\June8ConsoleApp\June8ConsoleApp\obj\Debug\June8ConsoleApp.csproj.SuggestedBindingRedirects.cache
+E:\CDE-012013\8JUNE-JIT\June8ConsoleApp\June8ConsoleApp\obj\Debug\June8ConsoleApp.csproj.CoreCompileInputs.cache
+E:\CDE-012013\8JUNE-JIT\June8ConsoleApp\June8ConsoleApp\obj\Debug\June8ConsoleApp.exe
+E:\CDE-012013\8JUNE-JIT\June8ConsoleApp\June8ConsoleApp\obj\Debug\June8ConsoleApp.pdb
