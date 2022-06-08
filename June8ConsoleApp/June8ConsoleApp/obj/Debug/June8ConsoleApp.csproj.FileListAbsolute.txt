@@ -6,3 +6,11 @@ E:\CDE-012013\8JUNE-JIT\June8ConsoleApp\June8ConsoleApp\obj\Debug\June8ConsoleAp
 E:\CDE-012013\8JUNE-JIT\June8ConsoleApp\June8ConsoleApp\obj\Debug\June8ConsoleApp.csproj.CoreCompileInputs.cache
 E:\CDE-012013\8JUNE-JIT\June8ConsoleApp\June8ConsoleApp\obj\Debug\June8ConsoleApp.exe
 E:\CDE-012013\8JUNE-JIT\June8ConsoleApp\June8ConsoleApp\obj\Debug\June8ConsoleApp.pdb
+D:\gittest\cde012013\June8ConsoleApp\June8ConsoleApp\bin\Debug\June8ConsoleApp.exe.config
+D:\gittest\cde012013\June8ConsoleApp\June8ConsoleApp\bin\Debug\June8ConsoleApp.exe
+D:\gittest\cde012013\June8ConsoleApp\June8ConsoleApp\bin\Debug\June8ConsoleApp.pdb
+D:\gittest\cde012013\June8ConsoleApp\June8ConsoleApp\obj\Debug\June8ConsoleApp.csproj.AssemblyReference.cache
+D:\gittest\cde012013\June8ConsoleApp\June8ConsoleApp\obj\Debug\June8ConsoleApp.csproj.SuggestedBindingRedirects.cache
+D:\gittest\cde012013\June8ConsoleApp\June8ConsoleApp\obj\Debug\June8ConsoleApp.csproj.CoreCompileInputs.cache
+D:\gittest\cde012013\June8ConsoleApp\June8ConsoleApp\obj\Debug\June8ConsoleApp.exe
+D:\gittest\cde012013\June8ConsoleApp\June8ConsoleApp\obj\Debug\June8ConsoleApp.pdb
