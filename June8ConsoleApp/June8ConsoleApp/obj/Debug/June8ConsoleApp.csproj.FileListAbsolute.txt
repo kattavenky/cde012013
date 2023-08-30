@@ -14,3 +14,10 @@ D:\gittest\cde012013\June8ConsoleApp\June8ConsoleApp\obj\Debug\June8ConsoleApp.c
 D:\gittest\cde012013\June8ConsoleApp\June8ConsoleApp\obj\Debug\June8ConsoleApp.csproj.CoreCompileInputs.cache
 D:\gittest\cde012013\June8ConsoleApp\June8ConsoleApp\obj\Debug\June8ConsoleApp.exe
 D:\gittest\cde012013\June8ConsoleApp\June8ConsoleApp\obj\Debug\June8ConsoleApp.pdb
+E:\Mygit\cde012013\June8ConsoleApp\June8ConsoleApp\bin\Debug\June8ConsoleApp.exe.config
+E:\Mygit\cde012013\June8ConsoleApp\June8ConsoleApp\bin\Debug\June8ConsoleApp.exe
+E:\Mygit\cde012013\June8ConsoleApp\June8ConsoleApp\bin\Debug\June8ConsoleApp.pdb
+E:\Mygit\cde012013\June8ConsoleApp\June8ConsoleApp\obj\Debug\June8ConsoleApp.csproj.AssemblyReference.cache
+E:\Mygit\cde012013\June8ConsoleApp\June8ConsoleApp\obj\Debug\June8ConsoleApp.csproj.CoreCompileInputs.cache
+E:\Mygit\cde012013\June8ConsoleApp\June8ConsoleApp\obj\Debug\June8ConsoleApp.exe
+E:\Mygit\cde012013\June8ConsoleApp\June8ConsoleApp\obj\Debug\June8ConsoleApp.pdb

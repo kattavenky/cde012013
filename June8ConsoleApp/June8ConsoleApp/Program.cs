@@ -10,7 +10,7 @@ namespace June8ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Today is wednesday ");
+            Console.WriteLine("Today is wednesday aug 30 ");
             Console.ReadLine();
         }
     }
