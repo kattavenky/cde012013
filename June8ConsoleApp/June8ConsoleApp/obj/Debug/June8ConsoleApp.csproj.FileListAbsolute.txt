@@ -21,3 +21,11 @@ E:\Mygit\cde012013\June8ConsoleApp\June8ConsoleApp\obj\Debug\June8ConsoleApp.csp
 E:\Mygit\cde012013\June8ConsoleApp\June8ConsoleApp\obj\Debug\June8ConsoleApp.csproj.CoreCompileInputs.cache
 E:\Mygit\cde012013\June8ConsoleApp\June8ConsoleApp\obj\Debug\June8ConsoleApp.exe
 E:\Mygit\cde012013\June8ConsoleApp\June8ConsoleApp\obj\Debug\June8ConsoleApp.pdb
+E:\GitSample\cde012013\June8ConsoleApp\June8ConsoleApp\bin\Debug\June8ConsoleApp.exe.config
+E:\GitSample\cde012013\June8ConsoleApp\June8ConsoleApp\bin\Debug\June8ConsoleApp.exe
+E:\GitSample\cde012013\June8ConsoleApp\June8ConsoleApp\bin\Debug\June8ConsoleApp.pdb
+E:\GitSample\cde012013\June8ConsoleApp\June8ConsoleApp\obj\Debug\June8ConsoleApp.csproj.AssemblyReference.cache
+E:\GitSample\cde012013\June8ConsoleApp\June8ConsoleApp\obj\Debug\June8ConsoleApp.csproj.SuggestedBindingRedirects.cache
+E:\GitSample\cde012013\June8ConsoleApp\June8ConsoleApp\obj\Debug\June8ConsoleApp.csproj.CoreCompileInputs.cache
+E:\GitSample\cde012013\June8ConsoleApp\June8ConsoleApp\obj\Debug\June8ConsoleApp.exe
+E:\GitSample\cde012013\June8ConsoleApp\June8ConsoleApp\obj\Debug\June8ConsoleApp.pdb
